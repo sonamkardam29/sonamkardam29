@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sonam Kardam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI/ML+Enthusiast;DSA+Learner;Building+Real+World+Projects&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI/ML+Enthusiast;Frontend+Developer;Building+Real+World+Projects&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 B.Tech CSE (AI/ML) Student  
+- 🎓 B.Tech CSE (AI/ML) 3rd Year Student at ABES Engineering College  
 - 💻 Full Stack & AI Developer  
 - 🔥 Solved 150+ DSA problems  
 - 🚀 Building real-world projects  
@@ -24,6 +24,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black)
 
 ### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
 ![React](https://img.shields.io/badge/React-blue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan)
 
@@ -62,7 +64,7 @@
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sonam-kardam-b06615367 
+- 💼 LinkedIn: https://www.linkedin.com/in/sonam-kardam-b06615367
 - 💻 GitHub: https://github.com/sonamkardam29  
 
 ---
