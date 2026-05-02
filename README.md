@@ -40,11 +40,17 @@
 
 ---
 
-## 🚀 Projects
+## 🚀## 🚀 Projects
 
-- 🧠 **MedScan AI** – AI-powered medical report analyzer using FastAPI, OCR & LLM  
-- 🔍 **AI Scam Detector** – MERN-based system to detect scam links & fake reviews  
+- 🤖 **AI PR Review Agent**  
+  Developed an AI-powered system to automate GitHub Pull Request reviews using LLMs.  
+  Implemented static analysis to detect bugs, security issues, and provide actionable code improvements.  
+  Tech: React, FastAPI, Python, Tailwind CSS, Google Gemini API  
 
+- 🔍 **AI Scam Detector**  
+  Built a MERN-based web application to detect scam links and fraudulent reviews using text analysis techniques.  
+  Enabled real-time verification to enhance user safety.  
+  Tech: MongoDB, Express.js, React, Node.js  
 ---
 
 ## 📊 GitHub Stats
