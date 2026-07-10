@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 B.Tech CSE (AI/ML) 3rd Year Student at ABES Engineering College  
+- 🎓 B.Tech CSE (AI/ML) final Year Student at ABES Engineering College  
 - 💻 Full Stack & AI Developer  
 - 🔥 Solved 200+ DSA problems  
 - 🚀 Building real-world projects  
